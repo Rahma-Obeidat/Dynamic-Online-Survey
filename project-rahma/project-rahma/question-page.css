@@ -1,0 +1,113 @@
+﻿body {
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    margin-left: 8px;
+    margin-right: auto;
+    color: #126266;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+    text-decoration: none;
+}
+
+.container-fluid {
+    padding: 10px;
+    /*box-shadow: 5px 5px 10px #888888;*/
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.nav-bar:hover {
+    color: #126266;
+    background-color: #E3D9BE;
+}
+
+a:hover {
+    color: black;
+    /*background-color: #E3D9BE;*/
+}
+/*//footer
+*/
+.footer {
+    /* margin-top:700px;*/
+    background-color: white;
+    width: 100%;
+    height: 10px;
+}
+
+.fontawsome {
+    color: #126266;
+}
+
+
+    .fontawsome:hover {
+        color: white;
+        background-color: #126266;
+    }
+
+.employee-id-date {
+    margin-bottom: 5%;
+    /*  margin: 6%;*/
+    margin-left: 10%;
+    width: 80%;
+    height: 150px;
+    border: 3px solid #126266;
+    border-radius: 12px;
+    background-color: #BBD8DE;
+}
+
+.id {
+    margin-top: 20px;
+    margin-left: 8%;
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.date {
+    margin-top: 20px;
+    margin-left: 8%;
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.question-box {
+    margin-bottom: 5%;
+    margin-left: 20%;
+    width: 60%;
+    height: 200px;
+    border: 3px solid #126266;
+    border-radius: 12px;
+    background-color: #BBD8DE;
+    position: relative;
+}
+
+.question-text-style {
+    text-align: center;
+    margin-top: 15px;
+    font-weight:bold;
+    font-size:large;
+    font-style:italic;
+}
+
+.button-style {
+    position: absolute;
+    display: flex;
+    gap: 10px;
+    left: 30%;
+    bottom: 20%;
+    justify-content: center;
+    width: 363px;
+}
+
+.submit-button {
+    color: white;
+    background-color: #126266;
+    border: 3px solid #126266;
+    border-radius: 12px;
+    margin-left: 45%;
+}

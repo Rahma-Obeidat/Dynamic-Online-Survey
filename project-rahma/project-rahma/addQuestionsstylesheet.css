@@ -1,0 +1,46 @@
+﻿body {
+}
+
+.table {
+    background-color: #BBD8DE;
+    width: 90%;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.container {
+    margin-left: 8%;
+}
+
+.adminhead {
+    /*margin-top:15%;*/
+}
+
+#Button1 {
+    background-color: #E8F0FE;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+#Button2 {
+    background-color: #E8F0FE;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.TextBox {
+    border-radius: 4px;
+    width: 80%;
+    border: 1px solid black;
+    text-align: start;
+}
+
+.div2 {
+    display: none;
+}

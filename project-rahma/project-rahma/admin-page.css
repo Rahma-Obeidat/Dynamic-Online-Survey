@@ -1,0 +1,65 @@
+﻿body {
+}
+
+.nav-bar {
+    margin-left: 8px;
+    margin-right: auto;
+    color: #126266;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+    text-decoration: none;
+}
+
+.container-fluid {
+    padding: 10px;
+    /*box-shadow: 5px 5px 10px #888888;*/
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.nav-bar:hover {
+    color: #126266;
+    background-color: #E3D9BE;
+}
+
+a:hover {
+    color: black;
+    /*background-color: #E3D9BE;*/
+}
+/*//footer
+*/
+.footer {
+    /*  margin-top:200px;*/
+    background-color: white;
+    width: 100%;
+    height: 10px;
+}
+
+.fontawsome {
+    color: #126266;
+}
+
+
+    .fontawsome:hover {
+        color: white;
+        background-color: #126266;
+    }
+
+.welcomeAdmin {
+    margin-top: 0%;
+    font-style: italic;
+    margin-left: 40%;
+    color: #126266;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: #126266;
+    font-size:xx-large;
+}
+
+    .hyperlink :hover {
+        color: black;
+    }

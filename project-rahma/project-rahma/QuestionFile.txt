@@ -1,0 +1,10 @@
+I understand the difference between class and object. 
+I understand the special method(Constructor) and what it is used for. 
+I understand all types of access modifiers. 
+I understand What’s the difference between an interface and abstract class 
+I understand What’s the meaning of Encapsulation and methods through properties(get and set).
+ I understand How to inherit a class into other class in C#. 
+I understand What is the difference between method overriding and method overloading 
+I understand what is debugging and how to do it .
+I understand what is QueryString and how to use it.
+I understand what is dynamic label and how to use it.
